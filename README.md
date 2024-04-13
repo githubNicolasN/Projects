@@ -1,4 +1,4 @@
-# OpenAI Chatbot with Streamlit interface
+#Python Chatbot project featuring OpenAI and Streamlit framework
 
   This is my take on a  chatbot project that i made in order to learn more about working with AI and user frameworks for user interafaces
   
